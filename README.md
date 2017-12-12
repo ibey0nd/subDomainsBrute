@@ -53,9 +53,9 @@ A simple and fast sub domain brute tool for pentesters. It can rearch as fast as
 
 ## Screenshot ##
 
-如下图所示，小字典扫描qq.com，发现758个域名，耗时在100s以内。
+小字典扫描qq.com，发现758个域名，耗时在100s以内。
 
-![screenshot](screenshot.png)
+
 
 Output file could be like: [https://github.com/lijiejie/subDomainsBrute/blob/master/dict/sample_qq.com.txt](https://github.com/lijiejie/subDomainsBrute/blob/master/dict/sample_qq.com.txt)
 
